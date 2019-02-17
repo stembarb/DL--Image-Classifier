@@ -30,7 +30,7 @@ I have implement this application in Python. This application can be trained on 
 
 The data in this repository comes from [this dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html).
 
-The data is stored in the `/data/` folder of the project files.
+Download the data and store it in the `/flower_data/` folder.
 
 Analysis has been performed in the [Jupyter Notebook](http://jupyter.org/), using Python 3.x.  
 
