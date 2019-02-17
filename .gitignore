@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 flower_data
 .vscode
+classifier.pth
+model.pt
